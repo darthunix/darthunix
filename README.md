@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Denis Smirnov
 
-**Location:** Russia, Khabarovsk
+**Location:** Thailand, Phuket
 
-**Skills:** Greenplum, PostgreSQL, C
+**Skills:** Greenplum, PostgreSQL, C, Rust
