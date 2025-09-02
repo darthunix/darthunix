@@ -1,7 +1,6 @@
-### Hi there, I am Denis Smirnov
+### Hi there 👋
 
-My current project (distributed SQL for Tarantool): https://git.picodata.io/picodata/picodata/sbroad
+I am **Denis Smirnov**, working on **distributed SQL** in [Picodata](https://github.com/picodata) and experimenting with a **DataFusion extension for PostgreSQL**.
 
-**Location:** Thailand, Phuket
-
-**Skills:** Rust, C, Tarantool, Greenplum, PostgreSQL
+- 🌍 **Location:** Phuket, Thailand  
+- 🛠 **Skills:** Rust, C, Tarantool, PostgreSQL, Greenplum
